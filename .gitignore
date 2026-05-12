@@ -1,0 +1,13 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Local environment
+.env
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
